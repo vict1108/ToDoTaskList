@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ToDo</string>
+    <string name="channel_name">ToDoTask</string>
+</resources>
